@@ -18,3 +18,10 @@
 - **Audio Processing**: Detect voices, writing out speeches
 - **Multimodal**: Models that can understand and generate texts, pictures, videos (Gemini Omni, Sora, DALL-E)
 - **Basic Science**: AlphaFold, creating new chemical pill, new materials,...
+
+---
+
+# Deep feed forward neural networks
+- Build on the idea of basic neural networks by using multiple hidden layers instead of just one
+<img width="521" height="256" alt="image" src="https://github.com/user-attachments/assets/b8d0e092-2b06-40bc-b507-8622f48d831a" />
+
