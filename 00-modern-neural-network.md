@@ -51,3 +51,12 @@
 - Long short-term memory (LSTM): Retain long-term context; Control information with gates
 - Gated recurrent unit (GRU): Simplify gating mechanisms; Maintain similar performance
 - Applications: NLP; Speech recognition; Time series forecasting
+
+---
+
+# The workflow
+- Deep feedforward Networks: provide learning foundations; Model complex nonlinear functions
+- CNN: build on that foundations to handle spatial data by leveraging local structure
+- RNN, LSTM, GRU: extend neural networks to sequential and temporal data
+- Transformers: take that further by enabling scalable sequence modeling through attention-based computation
+- Together, they represent the evolution of neural network design toward greater expressiveness, efficiency, and scalability
